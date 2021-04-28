@@ -1,4 +1,6 @@
 Hola mi nombre es Richie 
 y tengo 25 años, viviendo en Bucaramanga 
 
+master 1
+
 me gusta el LOL
